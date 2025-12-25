@@ -111,6 +111,24 @@
 // console.log(squareDigits("1, 2, 3, 4, abc"));
 
 
+//5-masala
+// function unliHarflar(text) {
+//   let words = text.split(" ");
+//   let unli = "aeiouAEIOU";
+//   let result = [];
+
+//   for (let element of words) {
+//     if (unli.includes(element[0])) {
+//       result.push(element);
+//     }
+//   }
+
+//   return result;
+// }
+
+// console.log(unliHarflar("arra yog'och un asal kukun"));
+
+
 
 
 ///////////////////////////////homeWork
